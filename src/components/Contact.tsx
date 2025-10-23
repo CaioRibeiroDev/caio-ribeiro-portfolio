@@ -74,7 +74,7 @@ const Contact = () => {
             className="bg-gradient-to-r from-primary to-secondary hover:opacity-90 glow-purple"
             asChild
           >
-            <a href="mailto:seu@email.com">
+            <a href="mailto:caioribeirodev@gmail.com">
               <Send className="w-5 h-5 mr-2" />
               Enviar Mensagem
             </a>
