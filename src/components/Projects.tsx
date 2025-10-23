@@ -30,8 +30,8 @@ const projectsData = [
     title: "🥗 Coach Companion Form",
     description: "Aplicação desenvolvida para otimizar o acompanhamento entre nutricionistas e alunos. O usuário preenche todos os dados solicitados — como peso, medidas, hábitos e metas — e o sistema envia automaticamente essas informações para a conta do nutricionista, facilitando o acompanhamento e personalização do plano alimentar.",
     tech: ["Radix", "React", "Tailwind", "EmailJs", "TypeScript", "Vite"],
-    github: "https://github.com",
     gradient: "from-cyan-500 to-secondary",
+    image: "/projects/coach-companion-form.png",
   },
 ];
 
